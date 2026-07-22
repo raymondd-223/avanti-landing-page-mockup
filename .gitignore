@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Claude Code local settings (personal, not shared)
+.claude/settings.local.json
+
+# Raw, unoptimized source footage — not used by the site.
+# The optimized versions actually referenced in index.html live alongside
+# these as assets/life-videos/avanti-*.mp4. One of these originals (232MB)
+# also exceeds GitHub's 100MB file size limit and cannot be pushed as-is.
+assets/life-videos/21_Mzg.mov
+assets/life-videos/alarm-night-car-street-light-2025-12-17-12-41-05-utc.mov
+assets/life-videos/business-man-opens-car-door-for-elegant-woman-2026-01-21-02-19-59-utc.mp4
+assets/life-videos/city-streets-car-speeding-front-view-2025-12-17-11-44-27-utc.mov
